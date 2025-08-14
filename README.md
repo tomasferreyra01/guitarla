@@ -20,5 +20,5 @@ Tecnologías utilizadas
 - CSS para estilos
 - LocalStorage para persistencia
 
-Vista:
+## 📷 Vista previa
 <img width="1919" height="869" alt="imagen" src="https://github.com/user-attachments/assets/668c078e-3a7e-4363-b2ad-299688e05aee" />
